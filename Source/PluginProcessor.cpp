@@ -255,5 +255,4 @@ juce::AudioProcessor* JUCE_CALLTYPE createPluginFilter()
     return new SimpleEQAudioProcessor();
 }
 
-// sungwook
-// other
+//other
