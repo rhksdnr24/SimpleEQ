@@ -234,7 +234,7 @@ juce::AudioProcessorValueTreeState::ParameterLayout SimpleEQAudioProcessor::crea
                                                            1.f));
 
     juce::StringArray stringArray;
-    
+    int other = 1;
     for(int i = 0; i < 4; ++i)
     {
         juce::String str;
