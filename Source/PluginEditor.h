@@ -21,9 +21,9 @@ struct LookAndFeel : juce::LookAndFeel_V4
                            float rotaryEndAngle, 
                            juce::Slider&) override;
 };
-struct RotarySliderWithLables : juce::Slider
+struct RotarySliderWithLabels : juce::Slider
 {
-    RotarySliderWithLables(juce::RangedAudioParameter& rap, const juce::String& unitSuffix) :
+    RotarySliderWithLabels(juce::RangedAudioParameter& rap, const juce::String& unitSuffix) :
     juce::Slider(juce::Slider::SliderStyle::RotaryHorizontalVerticalDrag,
                  juce::Slider::TextEntryBoxPosition::NoTextBox),
     param(&rap),
@@ -32,7 +32,7 @@ struct RotarySliderWithLables : juce::Slider
         setLookAndFeel(&lnf);
     }
     
-    ~RotarySliderWithLables()
+    ~RotarySliderWithLabels()
     {
         setLookAndFeel(nullptr);
     }
@@ -97,7 +97,7 @@ private:
     // access the processor object that created it.
     SimpleEQAudioProcessor& audioProcessor;
     
-    RotarySliderWithLables peakFreqSlider,
+    RotarySliderWithLabels peakFreqSlider,
     peakGainSlider,
     peakQualitySlider,
     lowCutFreqSlider,
