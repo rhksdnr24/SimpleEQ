@@ -62,12 +62,12 @@
     </LAYOUT>
   </FILTER>
   <FILTER uid="5" x="0.5181476846057572" y="0.5221579961464354" useARA="0"
-          uiLastX_Normal="1165" uiLastY_Normal="360" uiopen_Normal="1">
+          uiLastX_Normal="1208" uiLastY_Normal="278" uiopen_Normal="1">
     <PLUGIN name="SimpleEQ" format="AudioUnit" category="Effect" manufacturer="yourcompany"
             version="1.0.0" file="AudioUnit:Effects/aufx,Jcki,Manu" uniqueId="66776364"
-            isInstrument="0" fileTime="0" infoUpdateTime="1904abb588b" numInputs="2"
+            isInstrument="0" fileTime="0" infoUpdateTime="190523261ce" numInputs="2"
             numOutputs="2" isShell="0" hasARAExtension="0" uid="66776364"/>
-    <STATE>634.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIQSg4VcOAAQ..............vAT.e2Y3y2XeNEwKAH+.....yhsnfOc1qLzrkZ91ittvnWUn1h.....D1iQjE.....lsQ4X9Cf..fzLzfCQDULQISzO.QTvTURtAWczE8CRX0S0QGb0QmDJM1ZoAA.RDVclg2SQDvPPElbg0VYzUlbyA..Ab.TAIUPMAP.BjFY.DfCEfTZmg1P0QGHFIWYwAfcgwVckAP.IP.......f3z.A.TAIUPMAP.BjFY.DvCEfTZmg1P0QGHSw1avUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.MT.Suc2P0QGHFIWYwAfcgwVckAP.IP.......Pxq.A.TAIUPMAP.BjFY.DfCEvza2MTczAxTr8FbkAfcgwVckAP.IP.............TAIUPMAP.BjFY.DvBE.UYgsFHFIWYwAfcgwVckAP.IP........2g.A.TAIUPMAP.BjFY.DvBE.UYgsFHGEVZtAfcgwVckAP.IP........HL.C.TAIUPMAP.BjFY.DfCE.UYgsFHQUWXrkFc4AfcgwVckAP.IP.....3LyL6+..VU4FcoQGakQF.H.PF.XB.q..N..D.HAPS.7E.jAPZ..K.0Bvs.jK.7Bfu.PL.GCfy.LM.UCf1BDB.......f.A..........F..................f.p.</STATE>
+    <STATE>634.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIQSg4VcOAAQ..............vAT.e2Y3y2XeNEwKAH+.....yhsnfOc1qLzrkZ91ittvnWUn1h.....D1iQjE.....lsQ4X9Cf..fzLzfCQDULQISzO.QTvTURtAWczE8CRX0S0QGb0QmDJM1ZoAA.RDVclg2SQDvPPElbg0VYzUlbyA..Ab.TAIUPMAP.BjFY.DfCEfTZmg1P0QGHFIWYwAfcgwVckAP.IP.......f3z.A.TAIUPMAP.BjFY.DvCEfTZmg1P0QGHSw1avUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.MT.Suc2P0QGHFIWYwAfcgwVckAP.IP.........M.A.TAIUPMAP.BjFY.DfCEvza2MTczAxTr8FbkAfcgwVckAP.IP.............TAIUPMAP.BjFY.DvBE.UYgsFHFIWYwAfcgwVckAP.IP........2g.A.TAIUPMAP.BjFY.DvBE.UYgsFHGEVZtAfcgwVckAP.IP.............TAIUPMAP.BjFY.DfCE.UYgsFHQUWXrkFc4AfcgwVckAP.IP.........7+..VU4FcoQGakQF.H.PF.XB.q..N..D.HAPS.7E.jAPZ..K.0Bvs.jK.7Bfu.PL.GCfy.LM.UCf1BDB.......f.A..........F..................f.p.</STATE>
     <LAYOUT>
       <INPUTS>
         <BUS index="0" layout="L R"/>
@@ -82,7 +82,7 @@
           uiopen_IO="0">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="1904abb588b"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="190523261ce"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
     <STATE>828.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1aPbJ.u.PU.LG.kAfb.LG.u.fZ.7F.yAPY.7F.tAvY.zB.0AvY.7B.DAva.bG.tA.a.7F.gA.Y.LG.ufcOcWRDRDgXQrPDrA.HQ3PDgEADQLG.fDACQTVD2FQAQbVD7B.HQvPDtEAuQrPD0Ewp..RDRDgZQvPDlEwBQPG.fDwBQHVDBDQc..B.OAvT.PE.f.vW..B.YAvS.DD.SAvS.HD.IA.H.zB.fDwBQDVDKDQcQLPDoEwq.fBLhBCovfLLYBy5.jB.f.vVQ.PDgEQBQDF.eEgDQHVDIDQYQfJ.eEwAQTVDqFwBQbVDnBvW.vF.4Afb.jF.iAvb.zE.f..e..RDNDAaQrPDhEwBQPG.fDwBQDVDKDQc..B.OA.T..B.nDQBQLWDQDQZQvPDtEwBQPG.o.PK.rE.5APZ..G.5APX.3B.iAva.zF.cAfK.zF.vAvLgJA0SPQEVbAFYngWRU1Yo8laD8VYywzauAmVRU1Yo8laDEFcg8EDPjzbSUFakMFckQlTkcVZu4lVRU1Yo8laNEVakgvSP.G...........vuB9P.....n9qfOD.....bS1WaA....L..........HNYesE.....hS1WaA....D....P..........................................D.................tOB......InkSkcGHRU1Yo8laIHQXlAGaP.fDgU2YtEMHPXkQowVYfDCVU4FcoQGakQF.H.PF.XB.q.PR.DE.YAfW..G.0Afd.rG.8A.g.zH.UB.oATe.2K..B7f.ZHPKBfi.4H.qBzp.3JPtB3q..KPwBfr.OC.......HP..........HB..................H.1</STATE>
